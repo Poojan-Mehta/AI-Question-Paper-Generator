@@ -1,0 +1,52 @@
+
+Electric Charge - CBSE Class 12 Physics
+
+Key Concepts in the "Electric Charge" Chapter:
+
+1. Introduction to Electric Charge:
+   - Definition: Electric charge is a fundamental property of matter that causes it to experience a force when placed in an electric or magnetic field.
+   - Types of Charges: There are two types of electric charges: positive and negative. The unit of charge is the Coulomb (C).
+   - Properties of Electric Charges:
+     - Like charges repel each other, and unlike charges attract each other.
+     - Charge is quantized, meaning it exists in discrete amounts. The smallest unit of charge is the charge on an electron (−1.6 × 10⁻¹⁹ C) or a proton (+1.6 × 10⁻¹⁹ C).
+     - Charge is conserved; it cannot be created or destroyed, only transferred from one body to another.
+
+2. Conductors and Insulators:
+   - Conductors: Materials in which electric charges can move freely (e.g., metals like copper, aluminum).
+   - Insulators: Materials in which electric charges do not move freely (e.g., rubber, glass).
+   - Semiconductors: Materials with conductivity between that of conductors and insulators (e.g., silicon, germanium).
+
+3. Coulomb's Law:
+   - Statement: The magnitude of the electrostatic force between two point charges is directly proportional to the product of the magnitudes of the charges and inversely proportional to the square of the distance between them.
+   - Mathematical Form:
+     F = k |q1 ⋅ q2| / r²
+     where F is the force between the charges, q1 and q2 are the magnitudes of the charges, r is the distance between the charges, and k is Coulomb's constant (k = 8.99 × 10⁹ Nm²/C²).
+   - Vector Form: The force is also a vector quantity, and its direction is along the line joining the charges.
+
+4. Superposition Principle:
+   - When multiple charges are present, the net force on any one charge is the vector sum of the forces exerted by the other charges. This is known as the superposition principle.
+
+5. Charge Distribution:
+   - Point Charge: A charge that is considered to be concentrated at a single point in space.
+   - Continuous Charge Distribution: When a charge is distributed over a line, surface, or volume, the system is said to have a continuous charge distribution.
+     - Linear Charge Density (λ): Charge per unit length (C/m).
+     - Surface Charge Density (σ): Charge per unit area (C/m²).
+     - Volume Charge Density (ρ): Charge per unit volume (C/m³).
+
+6. Quantization of Charge:
+   - Quantization: The concept that the charge on any object is an integer multiple of the elementary charge (e).
+   - Expression: q = n ⋅ e, where n is an integer and e is the elementary charge.
+
+7. Conservation of Charge:
+   - The total charge in an isolated system remains constant over time, regardless of changes within the system.
+
+8. Electroscope:
+   - A device used to detect the presence of electric charge on a body.
+   - Working principle based on the repulsion of like charges.
+
+Applications:
+- Understanding the concept of electric charge is essential for the study of electric fields, electric potential, capacitance, and other related topics in physics.
+- Practical applications include electrostatic precipitators, photocopy machines, and charge storage devices like capacitors.
+
+Exercises and Problems:
+- The chapter usually concludes with problems related to the calculation of forces between charges, the use of Coulomb's law, and conceptual questions about charge conservation and distribution.
